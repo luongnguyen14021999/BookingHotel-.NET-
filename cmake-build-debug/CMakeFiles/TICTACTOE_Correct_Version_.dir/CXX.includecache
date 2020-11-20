@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/luongnguyendinh1999gmail.com/Desktop/Object-Oriented-Programming-Project/DinhNguyen_19617187Assignment1/Game.h
+NineBoard.h
+/Users/luongnguyendinh1999gmail.com/Desktop/Object-Oriented-Programming-Project/DinhNguyen_19617187Assignment1/NineBoard.h
+Player.h
+/Users/luongnguyendinh1999gmail.com/Desktop/Object-Oriented-Programming-Project/DinhNguyen_19617187Assignment1/Player.h
+
+/Users/luongnguyendinh1999gmail.com/Desktop/Object-Oriented-Programming-Project/DinhNguyen_19617187Assignment1/NineBoard.cpp
+iostream
+-
+iomanip
+-
+NineBoard.h
+/Users/luongnguyendinh1999gmail.com/Desktop/Object-Oriented-Programming-Project/DinhNguyen_19617187Assignment1/NineBoard.h
+
+/Users/luongnguyendinh1999gmail.com/Desktop/Object-Oriented-Programming-Project/DinhNguyen_19617187Assignment1/NineBoard.h
+TicTacToe.h
+/Users/luongnguyendinh1999gmail.com/Desktop/Object-Oriented-Programming-Project/DinhNguyen_19617187Assignment1/TicTacToe.h
+
+/Users/luongnguyendinh1999gmail.com/Desktop/Object-Oriented-Programming-Project/DinhNguyen_19617187Assignment1/Player.h
+iostream
+/Users/luongnguyendinh1999gmail.com/Desktop/Object-Oriented-Programming-Project/DinhNguyen_19617187Assignment1/iostream
+NineBoard.h
+/Users/luongnguyendinh1999gmail.com/Desktop/Object-Oriented-Programming-Project/DinhNguyen_19617187Assignment1/NineBoard.h
+
+/Users/luongnguyendinh1999gmail.com/Desktop/Object-Oriented-Programming-Project/DinhNguyen_19617187Assignment1/TicTacToe.cpp
+TicTacToe.h
+/Users/luongnguyendinh1999gmail.com/Desktop/Object-Oriented-Programming-Project/DinhNguyen_19617187Assignment1/TicTacToe.h
+
+/Users/luongnguyendinh1999gmail.com/Desktop/Object-Oriented-Programming-Project/DinhNguyen_19617187Assignment1/TicTacToe.h
+vector
+/Users/luongnguyendinh1999gmail.com/Desktop/Object-Oriented-Programming-Project/DinhNguyen_19617187Assignment1/vector
+
+/Users/luongnguyendinh1999gmail.com/Desktop/Object-Oriented-Programming-Project/DinhNguyen_19617187Assignment1/main.cpp
+iostream
+-
+Game.h
+/Users/luongnguyendinh1999gmail.com/Desktop/Object-Oriented-Programming-Project/DinhNguyen_19617187Assignment1/Game.h
+
